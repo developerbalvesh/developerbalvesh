@@ -48,19 +48,19 @@
 ## 🛠️ Skills
 
 <p align="center">
-    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d7ff6b901a5ee620111a5a1c9681f/topics/javascript/svg/javascript.svg" alt="JavaScript" width="30" height="30"/></code>
-    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d7ff6b901a5ee620111a5a1c9681f/topics/react/svg/react.svg" alt="React" width="30" height="30"/></code>
-    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d7ff6b901a5ee620111a5a1c9681f/topics/nodejs/svg/nodejs.svg" alt="Node.js" width="30" height="30"/></code>
-    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d7ff6b901a5ee620111a5a1c9681f/topics/mongodb/svg/mongodb.svg" alt="MongoDB" width="30" height="30"/></code>
-    <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png" alt="Express.js" width="30" height="30"/></code>
-    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d7ff6b901a5ee620111a5a1c9681f/topics/html/svg/html.svg" alt="HTML5" width="30" height="30"/></code>
-    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d7ff6b901a5ee620111a5a1c9681f/topics/css/svg/css.svg" alt="CSS3" width="30" height="30"/></code>
-    <code><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="30" height="30"/></code>
-    <code><img src="https://tailwindcss.com/_next/static/media/tailwind-logo.76e98a64.svg" alt="Tailwind CSS" width="30" height="30"/></code>
-    <code><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-white.svg" alt="Bootstrap" width="30" height="30"/></code>
-    <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="30" height="30"/></code>
-    <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/></code>
-    <code><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="30" height="30"/></code>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30"/>
+    <img src="https://nodejs.org/static/images/logo-light.svg" alt="Node.js" width="30" height="30"/>
+    <img src="https://www.mongodb.com/community/forums/uploads/default/original/2X/6/6f81b99f4d7c954b8e55d5f8546e797f59458dc4.png" alt="MongoDB" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png" alt="Express.js" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="30" height="30"/>
+    <img src="https://tailwindcss.com/_next/static/media/tailwind-logo.76e98a64.svg" alt="Tailwind CSS" width="30" height="30"/>
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-white.svg" alt="Bootstrap" width="30" height="30"/>
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="30" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="30" height="30"/>
 </p>
 
 ---
