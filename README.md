@@ -50,13 +50,13 @@
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="30" height="30"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30"/>
-    <img src="https://nodejs.org/static/images/logo-light.svg" alt="Node.js" width="30" height="30"/>
-    <img src="https://www.mongodb.com/community/forums/uploads/default/original/2X/6/6f81b99f4d7c954b8e55d5f8546e797f59458dc4.png" alt="MongoDB" width="30" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png" alt="Express.js" width="30" height="30"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-nodejs-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226034.png" alt="Node.js" width="30" height="30"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175138.png" alt="MongoDB" width="30" height="30"/>
+    <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express.js" width="30" height="30"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="30" height="30"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="30" height="30"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="30" height="30"/>
-    <img src="https://tailwindcss.com/_next/static/media/tailwind-logo.76e98a64.svg" alt="Tailwind CSS" width="30" height="30"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="Tailwind CSS" width="30" height="30"/>
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-white.svg" alt="Bootstrap" width="30" height="30"/>
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="30" height="30"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/>
