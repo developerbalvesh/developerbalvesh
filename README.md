@@ -48,20 +48,19 @@
 ## 🛠️ Skills
 
 <p align="center">
-    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" alt="Next Js" width="30" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="30" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-nodejs-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226034.png" alt="Node.js" width="30" height="30"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175138.png" alt="MongoDB" width="30" height="30"/>
-    <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express.js" width="30" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="30" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="30" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="30" height="30"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="Tailwind CSS" width="30" height="30"/>
-    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-white.svg" alt="Bootstrap" width="30" height="30"/>
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="30" height="30"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="30" height="30"/>
+    <img title="Next Js" src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="Next Js" width="30" height="30"/>
+    <img title="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="30" height="30"/>
+    <img title="React Js" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30"/>
+    <img title="Node Js" src="https://cdn.iconscout.com/icon/free/png-256/free-nodejs-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226034.png" alt="Node.js" width="30" height="30"/>
+    <img title="MongoDB" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175138.png" alt="MongoDB" width="30" height="30"/>
+    <img title="Express Js" src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express.js" width="30" height="30"/>
+    <img title="HTML 5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="30" height="30"/>
+    <img title="CSS 3" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="30" height="30"/>
+    <img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="30" height="30"/>
+    <img title="Tailwind CSS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="Tailwind CSS" width="30" height="30"/>
+    <img title="Bootstrap" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-white.svg" alt="Bootstrap" width="30" height="30"/>
+    <img title="Git & GitHub" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="30" height="30"/>
+    <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/>
 </p>
 
 ---
@@ -113,7 +112,7 @@
 
 ## ⭐ Awards & Achievements
 
-* 1st Prize in Project Competition during Graduation (Online Lecture management - PHP) 🥇
+* 1st Prize in Project Competition during Graduation (Online Lecture management - PHP & MySql) 🥇
 
 ---
 
