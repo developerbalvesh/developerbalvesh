@@ -106,7 +106,6 @@
 ## 🎉 Hobbies & Interests
 
 * Watching Scientific / Technical Videos 🔭
-* Web Development (React Js, PHP, MySQL) 🌐
 * Listening to Music 🎧
 
 ---
