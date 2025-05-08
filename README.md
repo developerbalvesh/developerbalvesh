@@ -47,20 +47,59 @@
 
 ## 🛠️ Skills
 
-<p align="center">
-    <img title="Next Js" src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="Next Js" width="30" height="30"/>
-    <img title="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="30" height="30"/>
-    <img title="React Js" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30"/>
-    <img title="Node Js" src="https://cdn.iconscout.com/icon/free/png-256/free-nodejs-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226034.png" alt="Node.js" width="30" height="30"/>
-    <img title="MongoDB" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175138.png" alt="MongoDB" width="30" height="30"/>
-    <img title="Express Js" src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express.js" width="30" height="30"/>
-    <img title="HTML 5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="30" height="30"/>
-    <img title="CSS 3" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="30" height="30"/>
-    <img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="30" height="30"/>
-    <img title="Tailwind CSS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="Tailwind CSS" width="30" height="30"/>
-    <img title="Bootstrap" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-white.svg" alt="Bootstrap" width="30" height="30"/>
-    <img title="Git & GitHub" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="30" height="30"/>
-    <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/>
+<p align="center" style="display: flex; flex-wrap: nowrap; justify-content: center;">
+    <span style="display: flex; flex-direction: column; align-items: center; margin: 10px; text-align: center;">
+        <img title="Next Js" src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="Next Js" width="30" height="30"/>
+        <span>Next Js</span>,
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin: 10px; text-align: center;">
+        <img title="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="30" height="30"/>
+        <span>JavaScript</span>,
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin: 10px; text-align: center;">
+        <img title="React Js" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30"/>
+        <span>React Js</span>,
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin: 10px; text-align: center;">
+        <img title="Node Js" src="https://cdn.iconscout.com/icon/free/png-256/free-nodejs-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226034.png" alt="Node.js" width="30" height="30"/>
+        <span>Node Js</span>,
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin: 10px; text-align: center;">
+        <img title="MongoDB" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175138.png" alt="MongoDB" width="30" height="30"/>
+        <span>MongoDB</span>,
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin: 10px; text-align: center;">
+        <img title="Express Js" src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express.js" width="30" height="30"/>
+        <span>Express Js</span>,
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin: 10px; text-align: center;">
+        <img title="HTML 5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="30" height="30"/>
+        <span>HTML 5</span>,
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin: 10px; text-align: center;">
+        <img title="CSS 3" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="30" height="30"/>
+        <span>CSS 3</span>,
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin: 10px; text-align: center;">
+        <img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="30" height="30"/>
+        <span>TypeScript</span>,
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin: 10px; text-align: center;">
+        <img title="Tailwind CSS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="Tailwind CSS" width="30" height="30"/>
+        <span>Tailwind CSS</span>,
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin: 10px; text-align: center;">
+        <img title="Bootstrap" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-white.svg" alt="Bootstrap" width="30" height="30"/>
+        <span>Bootstrap</span>,
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin: 10px; text-align: center;">
+        <img title="Git & GitHub" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="30" height="30"/>
+        <span>Git & GitHub</span>,
+    </span>
+    <span style="display: flex; flex-direction: column; align-items: center; margin: 10px; text-align: center;">
+        <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/>
+        <span>Postman</span>
+    </span>
 </p>
 
 ---
